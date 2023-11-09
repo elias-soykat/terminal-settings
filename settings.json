@@ -18,7 +18,7 @@
       "keys": "ctrl+shift+f"
     },
     {
-      "command": "closeWindow",
+      "command": "closeTab",
       "keys": "ctrl+w"
     },
     {
